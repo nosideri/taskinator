@@ -103,6 +103,16 @@ footer {
   border: 2px solid var(--grey);
 }
 
+.text-input {
+  outline: none;
+  border: none;
+  padding: 12px;
+  width: 100%;
+  font-size: 2.2rem;
+  border: 2px solid var(--grey);
+  border-radius: 12px;
+}
+
 .task-item {
   color: var(--grey);
   padding: 15px 15px;
